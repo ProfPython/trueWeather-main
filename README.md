@@ -1,5 +1,5 @@
 # trueWeather
-A weather forecast application created with MongoDB, ExpressJS, NodeJS, Vanilla Javascript, HTML, CSS and Jquery.
+A weather forecast application created with MongoDB, ExpressJS, NodeJS, Vanilla Javascript, HTML, CSS and Jquery. 
 
 Login page
 ![trueweather1image](https://user-images.githubusercontent.com/77641869/172741253-e2cf9b0e-198c-40b3-9388-4fb3a8c3db54.PNG)
