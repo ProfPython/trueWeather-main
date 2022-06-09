@@ -149,3 +149,11 @@ This test gets the home page of a user with bookmarks, and it returns the expect
 This test deletes the bookmark of a valid city in the database, and it returns the expected
 response
 
+How to run code:
+Run the following commands from VS code project terminal:
+npm init -y
+npm install
+cd server
+node app.js
+Go to http://localhost:3000/
+
