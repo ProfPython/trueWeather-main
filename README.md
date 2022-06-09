@@ -17,8 +17,8 @@ users based on the location provided. In this project I will use the OpenWeather
 of the most recognizable and elegant APIs available. It provides weather information for any 
 location on the globe. It also has a basic free version that suits the needs for this project. Apart 
 from using this API to display relevant data, I also plan to fetch historical weather data as a 
-dataset from it. This dataset will be stored in the MongoDB database and utilized to provide data visualization 
-- for example, a graph - of past and future weather. The reason for this project is to build something that would be 
+dataset from it. This dataset will be stored in the MongoDB database and utilized to provide a weather forecast modal box. 
+The reason for this project is to build something that would be 
 used daily and simple but still effective in having a wow factor; hence I came up with a weather 
 web app idea to provide accurate, fast, and complete weather information to help its users plan 
 activities.
