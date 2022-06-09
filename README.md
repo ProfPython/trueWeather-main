@@ -151,9 +151,14 @@ response
 
 How to run code:
 Run the following commands from VS code project terminal:
+
 npm init -y
+
 npm install
+
 cd server
+
 node app.js
+
 Go to http://localhost:3000/
 
