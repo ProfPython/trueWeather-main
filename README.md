@@ -150,6 +150,7 @@ This test deletes the bookmark of a valid city in the database, and it returns t
 response
 
 How to run code:
+
 Run the following commands from VS code project terminal:
 
 npm init -y
